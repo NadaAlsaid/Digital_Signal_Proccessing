@@ -1,6 +1,6 @@
 <h1 align="center"> Digital Signal Proccessing</h1>
 
- <p > ## This package implement some important algorithms on signal like:</p>
+## This package implement some important algorithms on signal like:
  
    - AccumulationSum
    - Adder
