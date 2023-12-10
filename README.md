@@ -29,4 +29,4 @@ This package implement some important algorithms on signal like:
 # Collaborators:
 
 - Nada Alsaid
-- Batoul Ragaay
+- Batoul Ragaie
